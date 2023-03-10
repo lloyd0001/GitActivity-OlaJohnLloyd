@@ -1,3 +1,6 @@
 print("John Lloyd Cyrus Ola")
 print("October 15, 2002")
 print("Sumangga, Mogpog, Marinduque")
+print("MSC")
+print("BSIT")
+print("2-B")
